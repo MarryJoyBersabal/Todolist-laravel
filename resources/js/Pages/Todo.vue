@@ -27,7 +27,6 @@ function deleteTodo(todo){
 }
 </script>
 
-
 <template>
   <Head title="Dashboard" />
 
